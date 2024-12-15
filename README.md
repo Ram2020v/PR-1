@@ -19,7 +19,7 @@ html><head>
 		</tr>
 		<tr>
 			<td>High school</td>
-			<td>jay hihg school</td>
+			<td>jay high school</td>
 			<td>2022-2023</td>
 		</tr>
 		</tbody></table>
